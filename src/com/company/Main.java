@@ -9,6 +9,7 @@ public class Main {
         car.engine="7999ccc";
         car.door="4";
         car.number="1190189";
+
         System.out.println(car.color);
     }
 }
